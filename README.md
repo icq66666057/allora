@@ -158,6 +158,10 @@ CG_API_KEY=
 
 ``docker compose build``
 
+docker compose up
+
+
+
 
 Полезные команды:
 
@@ -168,3 +172,4 @@ CG_API_KEY=
 Удалить ноду:
 
 ``rm -rf allora.sh allora-chain/ basic-coin-prediction-node/``
+
